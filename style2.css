@@ -1,0 +1,37 @@
+.navbar{
+    background: crimson;
+    background-color:crimson;
+
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px;
+    padding-bottom: 0px;
+}
+li {
+    display: inline-flex;
+    float: left;
+    
+}
+li a{
+   margin-right: 45px;
+   border-radius: 0%;
+}
+a{
+    text-decoration: none;
+}
+li a:hover{
+    background-color: aqua;
+    color: brown;
+}
+button a{
+    color: pink;
+    background-color: blanchedalmond;
+}
+.logo{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: fit-content;
+}
